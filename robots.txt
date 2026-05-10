@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ouic.github.io/readme-gbf5tl/sitemap.xml
